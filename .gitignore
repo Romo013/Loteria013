@@ -1,0 +1,15 @@
+# Dependencias de Node (Tailwind CSS)
+node_modules/
+
+# Logs de error de npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración de editores (opcional)
+.vscode/
+.idea/
